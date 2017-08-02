@@ -1,0 +1,8 @@
+# compile
+/.idea/*
+
+# svn
+/.svn/*
+
+# output
+/out/*
